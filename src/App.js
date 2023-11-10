@@ -10,14 +10,6 @@ export const App = () => {
       <TicTacToe/>
     </div>
   );
-
-  const click = (e) => {
-    
-
-    
-
-    console.log(e)
-  }
 }
 
 export default App;
