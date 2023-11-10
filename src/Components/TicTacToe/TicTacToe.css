@@ -1,0 +1,56 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+.Container{
+    margin-top: 80px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.title{
+    color: rgb(252, 253, 253);
+/* background-color: ; */
+}
+.title span{
+    color: aqua;
+}
+
+.Reset{
+    cursor: pointer;
+    background-color: aqua;
+    border-radius:25px;
+    font-size: 20px;
+    padding: 8px;
+    width: 10%;
+    margin-top: 30px;
+}
+.board{
+    display: flex;
+    justify-content: center;
+
+}
+.box{
+    cursor: pointer;
+    background-color: #fff;
+    height: 90px;
+    width: 100px;
+    color:rgb(0, 0, 0);
+    margin: 5px;
+    border-radius: 5px;
+}
+
+/* .circle{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+} */
+
+img{
+    padding: 20px;
+    height: 50px;
+}
+.main_title{
+    color: rgb(252, 253, 253);
+    margin-bottom: 1000px;
+}
